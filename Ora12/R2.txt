@@ -1,12 +1,3 @@
-8
-Cluj
-Timisoara
-Arad
-Lugoj
-Hunedoara
-Bucuresti
-Pitesti
-Deva
 Cluj Timisoara 15
 Timisoara Cluj 8
 Timisoara Arad 4
