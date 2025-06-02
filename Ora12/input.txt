@@ -1,0 +1,22 @@
+7
+Cathedral
+HistoryMuseum
+Opera
+FishFountain
+Synagogue
+RosesPark
+UnionSquare
+HistoryMuseum Cathedral 35
+Synagogue Cathedral 40
+UnionSquare Synagogue 23
+FishFountain Synagogue 19
+Opera UnionSquare 11
+RosesPark FishFountain 14
+Cathedral FishFountain 16
+HistoryMuseum Synagogue 28
+HistoryMuseum Opera 64
+Opera Synagogue 10
+Cathedral RosesPark 11
+Cathedral Opera 15
+Synagogue RosesPark 18
+Opera RosesPark 24
